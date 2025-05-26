@@ -120,7 +120,7 @@ libraryDependencies += "org.jfree" % "jfreechart" % "1.5.3"
 - Étendre l’analyse aux commentaires utilisateurs (`review_text`)
 
 ## 👨‍💻 Auteur
-Massi – Projet réalisé dans le cadre de l'atelier Spark & Scala
+MOKRANE Rabah (Massi) – Projet réalisé dans le cadre de l'atelier Spark & Scala
 
 ---
 
