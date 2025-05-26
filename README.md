@@ -32,7 +32,7 @@ EcommerceSparkAnalysis/
 ├── visualizations/
 │   ├── rapport_synthese.md (généré)
 │   ├── rapport.html (rapport interactif HTML)
-│   └── bar_chart_ventes.png (image générée)
+│___   
 ```
 
 ## ⚙️ Installation et exécution
